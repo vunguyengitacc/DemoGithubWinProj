@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\bin\Debug\WinProject.exe.config
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\bin\Debug\WinProject.exe
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\bin\Debug\WinProject.pdb
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.Form1.resources
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.Properties.Resources.resources
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.exe
+C:\Users\Dell\Desktop\DemoGithub\WinProject\WinProject\obj\Debug\WinProject.pdb
